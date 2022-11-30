@@ -1,0 +1,204 @@
+{
+  "login": {
+    "user": "Usuario",
+    "password": "Contrasinal",
+    "enter": "Entrar",
+    "register": "Rexistrarse"
+  },
+  "item": {
+    "title": "Titulo"
+  },
+  "demo": {
+    "title": "Demo"
+  },
+  "mainMenu": {
+    "title": "Producto Local"
+  },
+  "menu": {
+    "title": "MENU",
+    "home": "Home",
+    "contacts": "Contactos",
+    "logout": "Pechar sesión",
+    "personal_data": "Os meus datos personais",
+    "add_product": "Engadir produto",
+    "units": "unidades",
+    "gr": "gramos",
+    "kg": "kg",
+    "litres": "litros",
+    "show_products": "Xestionar produtos",
+    "show_products_client": "Produtos",
+    "show_producers" : "Xestionar produtores",
+    "product_details" : "Detalles do produto",
+    "producer_data" : "Datos do produtor"
+  },
+  "main": {
+    "welcome": "¡Benvido!"
+  },
+  "language": {
+    "spanish": "Castelán",
+    "galician": "Galego",
+    "english": "Inglés"
+  },
+  "table": {
+    "contacts": {
+      "name": "Nome",
+      "surname1": "Primeiro apelido",
+      "surname2": "Segundo apelido",
+      "phone": "Teléfono",
+      "email": "E-Mail"
+    },
+    "users": {
+      "name": "Nome",
+      "surname": "Apelido(s)",
+      "phone": "Teléfono",
+      "email": "E-Mail",
+      "login": "Nome de usuario",
+      "password": "Contrasinal",
+      "confirmPassword": "Confirmar contrasinal",
+      "category": "Categoría",
+      "nif": "NIF",
+      "address": "Dirección",
+      "city": "Cidade",
+      "zip": "Código postal"
+    },
+    "products": {
+      "ownername": "Produtor",
+      "ref": "Referencia",
+      "name": "Nome",
+      "typeProd": "Categoría",
+      "sortBy": "Ordear por...",
+      "all": "Todos",
+      "sort": {
+        "name": "Nome",
+        "price": "Prezo",
+        "category": "Categoría",
+        "producer": "Produtor"
+      },
+      "category": {
+        "Drinks" :"Bebidas",
+        "Fruits":"Froitas",
+        "Vegetables":"Vexetais",
+        "Legumes":"Legumes",
+        "Dairy":"Lacteos",
+        "Others": "Outros",
+        "All": "Todas"
+      },
+      "quantity": "Cantidade",
+      "description": "Unidades",
+      "email-book": "Reserva por email",
+      "description-units":{
+        "Kilograms": "Quilogramos",
+        "Units": "Unidades",
+        "Grams": "Gramos",
+        "Liters": "Litros"
+      },
+      "price": "Prezo (€)",
+      "producer": "Produtor",
+      "description-type": {
+        "Kilograms": "Kg",
+        "Units": "u",
+        "Grams": "gr",
+        "Liters": "L"
+      },
+      "show_details":"Ver detalles",
+      "Stock": "Stock",
+      "suggestions": "Produtos de",
+      "noSuggestions": " non ten máis produtos..."
+    }
+  },
+  "sections-title": {
+    "product-grid": "Catálogo de produtos",
+    "products-management": "Xestión de produtos",
+    "producers-management": "Xestión de produtores"
+  },
+  "form": {
+    "contact": "Contacto",
+    "newuser": "Novo usuario",
+    "newproduct": "Novo produto",
+    "editproduct": "Editar produto",
+    "newproducer": "Novo produtor"
+  },
+  "button": {
+    "cancel": "Cancelar",
+    "save": "Gardar",
+    "go_back": "Voltar"
+  },
+  "paginator": {
+    "first_page": "Primeira páxina",
+    "last_page": "Última páxina",
+    "items_per_page": "Elementos por páxina",
+    "next_page": "Páxina seguinte",
+    "previous_page": "Páxina anterior",
+    "of": "de"
+  },
+  "EN": "Inglés",
+  "ES": "Castelán",
+  "GL": "Galego",
+  "USER_NOT_EXISTS": "O usuario non existe na base de datos",
+  "WRONG_PASSWORD": "Contrasinal incorrecta",
+  "TOKEN_EXPIRED": "A sesión expirou",
+  "CONTACT_EDIT_SUCCESS": "Contacto editado",
+  "CONTACT_CREATE_SUCCESS": "Contacto creado",
+  "CONTACT_DELETE_SUCCESS": "Contacto borrado",
+  "CONTACT_NOT_EDIT": "Erro ao editar o contacto",
+  "CONTACT_NOT_DELETE": "Contacto non borrado",
+  "CONTACT_NOT_CREATED": "Contacto non creado",
+  "USER_CREATE_SUCCESS": "Usuario rexistrado correctamente",
+  "USER_EDIT_SUCCESS": "Usuario editado correctamente",
+  "USER_LOGIN_UNIQUE": "Xa existe o nome de usuario",
+  "USER_EMAIL_UNIQUE": "Este email xa está rexistrado",
+  "USER_NIF_UNIQUE": "Este NIF xa está rexistrado",
+  "USER_PHONE_UNIQUE": "Este teléfono xa está rexistrado",
+  "USER_REMOVE_SUCCESS": "Eliminouse a conta de usuario",
+  "USER_REMOVE_ERROR": "Non se puido elimina-la conta de usuario",
+  "NAME_REQUIRED": "Nome obrigatorio",
+  "ID_NOT_EXISTS": "Id non existe",
+  "ID_REQUIRED": "Id obrigatorio",
+  "SURNAME1_REQUIRED": "Primeiro apelido obrigatorio",
+  "SURNAME2_REQUIRED": "Segundo apelido obrigatorio",
+  "PHONE_REQUIRED": "Teléfono obrigatorio",
+  "PHONE_INVALID": "Teléfono inválido",
+  "EMAIL_REQUIRED": "Email obrigatorio",
+  "EMAIL_INVALID": "Email invalido",
+  "CONTACT_NOT_EXISTS": "Contacto non existe",
+  "CONTACT_ALREADY_EXISTS": "Contacto xa existe",
+  "CONTACT_CONSTRAINT_VIOLATION": "Violación de restrición de contacto",
+  "PHONE_ALREADY_EXISTS": "O teléfono xa existe",
+  "UNKNOWN_ERROR": "Erro descoñecido",
+  "SESSION_EXPIRED": "Sesión expirada",
+  "PRODUCT_CREATE_SUCCESS": "Produto rexistrado correctamente",
+  "PRODUCT_DELETE_SUCCESS": "Producto eliminado correctamente",
+  "PRODUCT_DELETE_ERROR": "Non se puido elimina-lo produto",
+  "PRODUCT_EDIT_SUCCESS": "Produto actualizado correctamente",
+  "CLOSE": "PECHAR",
+  "filter": "Filtro",
+  "new": "Novo",
+  "delete": "Eliminar",
+  "delete_profile": "Eliminar perfil",
+  "edit": "Modificar",
+  "refresh": "Refrescar",
+  "loading": "Cargando",
+  "no": "Non",
+  "yes": "Si",
+  "delete-element-confirmation": "¿Está seguro de que quere continuar? O seu usuario será eliminado",
+  "namerequired": "O nome é un campo obrigatorio",
+  "surname1required": "O apelido é un campo obrigatorio",
+  "phonerequired": "O teléfono é un campo requirido",
+  "phonepattern": "O formato do teléfono non é correcto",
+  "emailpattern": "O formato do email non é correcto",
+  "nifpattern": "O formato do NIF non é correcto",
+  "loginrequired": "O nome de usuario é un campo obrigatorio",
+  "cityrequired": "A cidade é un campo obrigatorio",
+  "emailrequired": "O email é un campo obrigatorio",
+  "passwordrequired": "O contrasinal é un campo obrigatorio",
+  "passconfirmrequired": "A confirmación é un campo obrigatorio",
+  "passdoesnotmatch": "A confirmación e o contrasinal non coinciden",
+  "typeprodrequired":"A categoría é un campo obrigatorio",
+  "quantityrequired": "A cantidade é un campo obrigatorio",
+  "descriptionrequired": "As unidades son un campo obrigatorio",
+  "pricerequired": "O prezo é un campo obrigatorio",
+  "delete-product-confirmation": "¿Está seguro de que quere continuar? O(s) seu(s) produto(s) ha(n) ser eliminado(s)",
+  "delete-user-confirmation":"¿Estás seguro de que queres continuar? Os usuarios marcados serán eliminados.",
+  "total-products": "Relación de Produtos Totais"
+
+}
